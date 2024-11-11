@@ -78,7 +78,7 @@ export const Solution = () => {
             </div>
             <div className="relative h-full min-h-[400px]">
               <img
-                src="https://sun9-14.userapi.com/impg/vqkaNF3r-FqLcHYui0LwM0vWAh9goTo6EipQUw/9B_0bo7m7EQ.jpg?size=1280x720&quality=96&sign=898451bcf40f6b3f6cbc5234abba1139&type=album"
+                src="https://sun9-39.userapi.com/impg/o8-hbfRRb_Nz33xoPUQ5aABZPbdS83T8YrxslQ/VaI331kYkxc.jpg?size=500x360&quality=96&sign=2520fe53bf3a5cd1abd6a4ccbfa660ae&type=album"
                 alt="Vitacaps в действии"
                 className="absolute inset-0 w-full h-full object-cover"
               />
